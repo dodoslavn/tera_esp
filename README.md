@@ -1,4 +1,4 @@
-# tera_esp
+# Terarium - module management
 Set of scripts which are part of my "tera_" project.
 Goal is to monitor ESP-32/ESP-.. modules which have HTTP server running.
 This script will call the modules and retrieve data from them (temperature/humidity) and store them in file. 
